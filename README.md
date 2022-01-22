@@ -1,6 +1,6 @@
 # ToDo-app
 
-For now it's just the backed of the app.
+It's just the backend of the app.
 
 ### What's been used so far:
 
